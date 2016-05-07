@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Course: 02.R Programming For Data Science
+## Assignment 2: Caching the Inverse of a Matrix
+## By: https://github.com/wballaa/
 
 ## Write a short comment describing this function
 
