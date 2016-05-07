@@ -1,4 +1,4 @@
-## Course: 02.R Programming For Data Science
+## Course: "R Programming For Data Science" @ John Hopkins
 ## Assignment 2: Caching the Inverse of a Matrix
 ## By: https://github.com/wballaa/
 
